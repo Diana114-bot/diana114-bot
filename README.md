@@ -1,75 +1,91 @@
-<header>
+# Hi, I'm Zwivhuya Sagida
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Create a branch
-
-_Welcome to "Introduction to GitHub"! :wave:_
-
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
-
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
-
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
-
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
-
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
-
-![profile-readme-example](/images/profile-readme-example.png)
-
-### :keyboard: Activity: Your first branch
-
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
-
-   ![code-tab](/images/code-tab.png)
-
-3. Click on the **main** branch drop-down.
-
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
-
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
-
-   ![create-branch-button](/images/create-branch-button.png)
-
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
-
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+I'm a **Computer Science graduate** from Tshwane University of Technology with a passion for building innovative digital solutions. I recently completed my **Work Integrated Learning at CodeTribe (MLab)** where I honed my skills in both mobile and web development.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## About Me
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+  **Diploma in Computer Science** - Tshwane University of Technology (2022-2026)
+  **WIL Trainee** - CodeTribe (MLab) (2025-2026)
+  **Location:** Pretoria, South Africa
+  **Languages:** Venda, English, isiZulu
+  **Open to:** Full-time positions, freelance work, and collaborations
 
-</footer>
+---
+
+## Tech Stack
+
+**Frontend:** React, TypeScript, HTML5, CSS3, Redux  
+**Mobile:** React Native, Expo  
+**Backend:** Node.js, Express  
+**Database:** PostgreSQL, MySQL, Firebase  
+**Languages:** JavaScript, TypeScript, Java, SQL  
+**Tools:** Git, REST APIs
+
+---
+
+##  Mobile Projects
+
+### Shopping List App
+- React Native shopping list with Redux state management
+- Add, edit, delete items with local storage persistence
+- [Download APK](link-to-apk)
+
+### Note Taker App
+- Secure note-taking with authentication and categories
+- Full CRUD operations with search and sort
+- [Download APK](link-to-apk)
+
+### Audio Recorder
+- Digital voice journal with recording and playback
+- Permission handling and storage management
+- [Download APK](link-to-apk)
+
+---
+
+##  Web Projects
+
+### LK Holdings
+- Corporate website for pest control and cleaning services
+- React, TypeScript
+- [Live Demo](https://lkholdings-website.vercel.app/) | [GitHub](https://github.com/Diana114-bot/lkholdings)
+
+### Links Vault
+- Bookmark management with localStorage
+- React, TypeScript
+- [Live Demo](https://links-vault.vercel.app/) | [GitHub](https://github.com/Diana114-bot/links-vault)
+
+### HotelEase
+- Full-stack hotel booking platform (backend focus)
+- Node.js, Express, PostgreSQL
+- [GitHub](https://github.com/Karabo2002dev/HotelEase.git)
+
+---
+
+## 🔧 Backend Projects
+
+### Express Library API
+- RESTful API for library management
+- Node.js, Express, TypeScript
+- [GitHub](https://github.com/Diana114-bot/express-library-api.git)
+
+### Library Management System
+- PostgreSQL database design with complex queries
+- PostgreSQL, SQL
+- [GitHub](https://github.com/Diana114-bot/sql-intro.git)
+
+### Collaborative Code Review
+- API platform for team code reviews with WebSockets
+- Node.js, Express, PostgreSQL
+- [GitHub](https://github.com/Diana114-bot/collaborative-code-review-platform.git)
+
+---
+
+##  Let's Connect!
+
+- **Email:** zwivhuyasagida@gmail.com | zwivhuya805@gmail.com
+- **Phone/WhatsApp:** 082 057 8495
+- **LinkedIn:** [Sagida Zwivhuya](https://www.linkedin.com/in/sagida-zwivhuya-ab312a361/)
+- **GitHub:** [Diana114-bot](https://github.com/Diana114-bot)
+
