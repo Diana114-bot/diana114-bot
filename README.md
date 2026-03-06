@@ -30,17 +30,17 @@ I'm a **Computer Science graduate** from Tshwane University of Technology with a
 ### Shopping List App
 - React Native shopping list with Redux state management
 - Add, edit, delete items with local storage persistence
-- [Download APK](link-to-apk)
+- [Download APK](application-79d0f3a2-936f-4905-b907-6b21a45e482a.apk)
 
 ### Note Taker App
 - Secure note-taking with authentication and categories
 - Full CRUD operations with search and sort
-- [Download APK](link-to-apk)
+- [Download APK](application-65e0e52f-93d3-4242-8de4-053f22d5a1d7.apk)
 
 ### Audio Recorder
 - Digital voice journal with recording and playback
 - Permission handling and storage management
-- [Download APK](link-to-apk)
+- [Download APK](application-33ef434a-865c-41c5-955e-11286cb4b0aa.apk)
 
 ---
 
